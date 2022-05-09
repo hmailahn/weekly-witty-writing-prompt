@@ -55,7 +55,6 @@ if (Auth.loggedIn() === true) {
         </button>
       {openModal && <Modal closeModal={setOpenModal}/>}
 
-      {/* <Stories /> */}
     </div>
   );
   } else if(Auth.loggedIn() === false ) {
