@@ -61,8 +61,7 @@ const CommentForm = ({storyId}) => {
           Submit
         </Button>
         </Form>
-            {/* </textarea>
-            <input onClick={handleFormSubmit} type="submit"/>  */}
+           
         <Alert dismissible onClose={() => setShowAlert(false)} show={showAlert} variant='danger'>
           Something went wrong with your comment please try again later
         </Alert>
