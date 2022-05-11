@@ -1,7 +1,7 @@
 # weekly-witty-writing-prompt
 This is a free app where users view, vote on, and create stories from given prompts.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Nate-Huerd/weekly-witty-writing-prompt)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nate-Huerd/weekly-witty-writing-prompt)  ![GitHub watchers](https://img.shields.io/github/watchers/Nate-Huerd/weekly-witty-writing-prompt?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/Nate-Huerd/weekly-witty-writing-prompt)  
+![GitHub last commit](https://img.shields.io/github/last-commit/hmailahn/weekly-witty-writing-prompt)  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hmailahn/weekly-witty-writing-prompt)  ![GitHub watchers](https://img.shields.io/github/watchers/hmailahn/weekly-witty-writing-prompt?label=Watch&style=social)  ![GitHub top language](https://img.shields.io/github/languages/top/hmailahn/weekly-witty-writing-prompt)  
 
 ## Table of Contents 
 1. [User-Story](#User-Story)
