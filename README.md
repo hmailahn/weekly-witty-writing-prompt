@@ -7,8 +7,9 @@ This is a free app where users view, vote on, and create stories from given prom
 1. [User-Story](#User-Story)
 1. [Deployed-Project](#Deployed-Project)
 1. [Repository](#Repository)
-1. [Built-With](#Built-With)
-2. [Contact](#Contact)
+2. [Screenshot](#Screenshot)
+3. [Built-With](#Built-With)
+4. [Contact](#Contact)
 
 ## User-Story
 As a storyteller I want to be presented with a writing prompt so I can write a story and view other user’s stories.
@@ -27,6 +28,10 @@ https://weekly-witty-writing-prompts.herokuapp.com/
 ## Repository
 https://github.com/hmailahn/weekly-witty-writing-prompt
 
+## Screenshot
+![image](https://github.com/hmailahn/weekly-witty-writing-prompt/blob/main/screencapture-weekly-witty-writing-prompts-herokuapp-2022-05-11-13_06_43.png)
+![image](https://github.com/hmailahn/weekly-witty-writing-prompt/blob/main/screencapture-weekly-witty-writing-prompts-herokuapp-Dashboard-2022-05-11-13_09_34.png)
+![image](https://github.com/hmailahn/weekly-witty-writing-prompt/blob/main/screencapture-weekly-witty-writing-prompts-herokuapp-Top5-2022-05-11-13_09_12.png)
 
 #### Built-With
 
